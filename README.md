@@ -2,7 +2,6 @@
 TrueCaller Python Bot Search about Phone Numbers and Print Results in terminal 
 ========================================
 Made by hossamsalem23
-https://www.facebook.com/Hossam.salem55
 ========================================
 First :
 Download Chrome webdriver 
